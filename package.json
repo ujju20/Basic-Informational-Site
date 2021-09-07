@@ -1,0 +1,25 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "It is Basic Informational site made using NodeJs and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujju20/Basic-Informational-Site.git"
+  },
+  "author": "Ujjawal Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujju20/Basic-Informational-Site/issues"
+  },
+  "homepage": "https://github.com/ujju20/Basic-Informational-Site#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
