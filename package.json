@@ -4,7 +4,9 @@
   "description": "It is Basic Informational site made using NodeJs and Express",
   "main": "app.js",
   "scripts": {
-    "test": "start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
   },
   "repository": {
     "type": "git",
