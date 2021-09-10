@@ -27,7 +27,7 @@ For running this project on your local machine
 
         npm start
         
-5. Now Go to your broswer and open this link http://localhost:3000/. The Home Page will open and then you go to other Pages by adding then in the URL like this
+5. Now Go to your broswer and open this link http://localhost:3000/. The Home Page will open and then you go to other Pages by adding them in the URL like this
 
    - For visitng About Page http://localhost:3000/about
    - For visiting conatct Page http://localhost:3000/contact
